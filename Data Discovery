@@ -1,0 +1,12 @@
+AIMS Grid (Project Management Tool)
+- Purpose: Determine weakness, pain point, etc, and then decide what needs to be done.
+- Stakeholder: People involves in dealing with the issue. Example: Sales Team, Data Analytics Team, Software Team, marketing and customer service team, etc.
+- End Result: What exactly should be the result of this analysis. In this case, a Power BI dashboard providing quick and latest sales insights to facilitate data driven decision making.
+- Success Criteria: Was the analysis successful? That is, did it benefit the employees or business in any way? Did it save time or uncover solutions and interesting patterns?
+
+
+STEP 1: Create AIMS grid
+STEP 2: Bhavin will now call DA team (Data Masters) and IT team (Falcons).
+
+# Atliq has a SALES MANAGEMENT SYSTEM (SMS) i.e. whenever sale or anything is made, records get stored in MySQL database.
+# SMS is owned by IT Team.
