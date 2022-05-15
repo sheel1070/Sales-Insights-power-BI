@@ -9,4 +9,7 @@ STEP 1: Create AIMS grid
 STEP 2: Bhavin will now call DA team (Data Masters) and IT team (Falcons).
 
 # Atliq has a SALES MANAGEMENT SYSTEM (SMS) i.e. whenever sale or anything is made, records get stored in MySQL database.
-# SMS is owned by IT Team.
+# SMS is owned by IT Team and DA team will create dashboard based on that data. However, data in SMS should not be affected by Power BI queries. So, a data warehouse is designed.
+# MySQL database can also be considered as OLTP and cannot be down as it would hamper sales operations. 
+# Data is pulled from OLTP, undergoes ETL (Extract, Transform, Load) and is stored in data warehouse.
+# Data Engineers will conduct ETL and maintain data warehouse after with Data MAsters will come into picture.
